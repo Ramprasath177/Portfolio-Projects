@@ -80,4 +80,3 @@ We created temporary tables to analyze and store vaccination coverage data.
 ## Conclusion 
 This project provides an in-depth exploratory data analysis of COVID-19 using SQL, Excel, and Tableau. The analysis offers valuable insights into global and regional impacts, including infection rates, mortality, and vaccination coverage. Key findings are visualized through an interactive Tableau dashboard, which highlights trends, regional variations, and the progress of vaccination efforts. The dashboard serves as a comprehensive tool for understanding the pandemic's effects and supporting informed public health decisions.
 
-For an interactive exploration of the data, visit the COVID-19 Dashboard.
