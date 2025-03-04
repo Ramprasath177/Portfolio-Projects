@@ -1,9 +1,5 @@
 # COVID-19 Exploratory Data Analysis Project
 
-## Covid 19 Dashboard
-
-Explore the interactive dashboard showcasing the findings of this analysis: [Dashboard Link](https://public.tableau.com/views/Covidproject_17226240422510/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ## Project Overview
 
 This project involves the exploratory data analysis (EDA) of COVID-19 data, using SQL, Excel, and Tableau. The goal was to analyze extensive datasets from multiple countries, clean and prepare the data, and create a comprehensive dashboard to summarize key insights.
